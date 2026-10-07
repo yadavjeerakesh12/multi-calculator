@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Scientific() {
   return (
-    <div>Scientific</div>
+    <div><h1>Coming Soon .............</h1></div>
   )
 }
